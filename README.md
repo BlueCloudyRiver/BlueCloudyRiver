@@ -1,16 +1,23 @@
-## Hi there 👋
+```
+ ____  _             ____ _                 _       ____  _                 
+| __ )| |_   _  ___ / ___| | ___  _   _  __| |_   _|  _ \(_)_   _____ _ __ 
+|  _ \| | | | |/ _ \ |   | |/ _ \| | | |/ _` | | | | |_) | \ \ / / _ \ '__|
+| |_) | | |_| |  __/ |___| | (_) | |_| | (_| | |_| |  _ <| |\ V /  __/ |   
+|____/|_|\__,_|\___|\____|_|\___/ \__,_|\__,_|\__, |_| \_\_| \_/ \___|_|   
+                                               |___/                        
+````
 
-<!--
-**BlueCloudyRiver/BlueCloudyRiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Known languages:
+- Rust
+- Zig
+- Golang
+- Python
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Organizations:
+- My Org: [AsterTide](https://github.com/AsterTide)
+- Team Org: [LuminousApple](https://github.com/LuminousApple)
+
