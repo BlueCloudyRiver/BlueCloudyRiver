@@ -12,10 +12,11 @@
 - Rust
 - Zig
 - Golang
+- JS/TS
 - Python
-- JavaScript
 
-
+### Expertise:
+An aspiring Systems + Full-Stack Developer
 
 ### Organizations:
 - My Org: [AsterTide](https://github.com/AsterTide)
