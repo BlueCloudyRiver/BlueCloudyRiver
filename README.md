@@ -15,8 +15,8 @@
 - JS/TS
 - Python
 
-### Expertise:
-An aspiring Systems + Full-Stack Developer
+### About:
+My ultimate career goal is to bridge the gap between deep technical innovation and business strategy as a CTO/CEO.
 
 ### Organizations:
 - My Org: [AsterTide](https://github.com/AsterTide)
