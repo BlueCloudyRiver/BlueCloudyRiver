@@ -10,15 +10,15 @@
 
 ### Known languages:
 - Rust
-- Zig
 - Golang
 - JS/TS
+- Zig
 - Python
 
 ### About:
 My ultimate career goal is to bridge the gap between deep technical innovation and business strategy as a CTO/CEO.
 
 ### Organizations:
-- My Org: [AsterTide](https://github.com/AsterTide)
 - Team Org: [LuminousApple](https://github.com/LuminousApple)
+- My Org: [AsterTide](https://github.com/AsterTide)
 
