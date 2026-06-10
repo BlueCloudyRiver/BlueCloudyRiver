@@ -41,7 +41,7 @@
 
 ### Organizations:
 - Team Organization: [LuminousApple](https://github.com/LuminousApple)
-- Personal Organization (Lab): [AsterTide](https://github.com/AsterTide)
+- Personal Organization (Lab): [AquaRiver](https://github.com/AquaRiver)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BlueCloudyRiver&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
