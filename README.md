@@ -1,4 +1,4 @@
-<h1 align=center>Hey there</h1>
+<h1 align="center">Hey there</h1>
 
 ```
                             ____  _             ____ _                 _       ____  _                 
@@ -35,8 +35,8 @@
 ### About
 
 - Building primarily with Rust, Go, and TypeScript 
-- Interested in Full-Stack development, Desktop Application Development, and product development
-- Exploring Linux, backend architecture, and SaaS
+- Interested in Full-Stack development, Desktop Application development, and Product development
+- Exploring Linux, Backend Architecture, and SaaS
 - Long-term goal: become a CTO/Founder capable of building and leading technology companies
 
 ### Organizations:
