@@ -15,21 +15,21 @@
 
 ### Languages & Technologies
 <div align="center">
-    <img src="https://img.shields.io/badge/Tauri-3178C6?logo=tauri&logoColor=white&style=for-the-badge" height="50" alt="tauri logo" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-2C2D72?logo=javascript&logoColor=white&style=for-the-badge" height="50" alt="javascript logo" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="50" alt="html5 logo" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="50" alt="css3 logo" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="50" alt="tailwindcss logo" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Linux-1572B6?logo=linux&logoColor=white&style=for-the-badge" height="50" alt="linux logo" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Shell-1572B6?logo=shell&logoColor=white&style=for-the-badge" height="50" alt="shell logo" />
+    <img src="https://img.shields.io/badge/Linux-20232A?logo=linux&logoColor=white&style=for-the-badge" height="50" alt="linux logo" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Shell-4EAA25?logo=shell&logoColor=white&style=for-the-badge" height="50" alt="shell logo" />
 </div>
 <div align="center">
-    <img src="https://img.shields.io/badge/Python-1572B6?logo=python&logoColor=white&style=for-the-badge" height="50" alt="python logo" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Docker-1572B6?logo=docker&logoColor=white&style=for-the-badge" height="50" alt="docker logo" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/PostgreSQL-1572B6?logo=postgresql&logoColor=white&style=for-the-badge" height="50" alt="postgresql logo" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/React-1572B6?logo=react&logoColor=white&style=for-the-badge" height="50" alt="react logo" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Git-1572B6?logo=git&logoColor=white&style=for-the-badge" height="50" alt="git logo" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Github-1572B6?logo=github&logoColor=white&style=for-the-badge" height="50" alt="github logo" />
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="50" alt="python logo" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="50" alt="docker logo" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="50" alt="postgresql logo" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="50" alt="react logo" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="50" alt="git logo" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=for-the-badge" height="50" alt="github logo" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Nim-3178C6?logo=nim&logoColor=white&style=for-the-badge" height="50" alt="nim logo" />&nbsp;&nbsp;
 </div>
 
 ### About
@@ -44,5 +44,5 @@
 - Personal Organization (Lab): [AquaRiver](https://github.com/AquaRiver)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BlueCloudyRiver&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BlueCloudyRiver&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"/>
 </div>
