@@ -15,6 +15,7 @@
 
 ### Languages & Technologies
 <div align="center">
+    <img src="https://img.shields.io/badge/Tauri-5C2D91?logo=tauri&logoColor=white&style=for-the-badge" height="50" alt="tauri logo" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-2C2D72?logo=javascript&logoColor=white&style=for-the-badge" height="50" alt="javascript logo" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="50" alt="html5 logo" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="50" alt="css3 logo" />&nbsp;&nbsp;
