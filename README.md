@@ -1,4 +1,4 @@
-<h1 align="center">Hey there</h1>
+<h1 align="center">hey there!</h1>
 
 ```
                             ____  _             ____ _                 _       ____  _                 
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white&style=for-the-badge" height="50" alt="lua logo" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="50" alt="docker logo" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="50" alt="postgresql logo" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="50" alt="react logo" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=black&style=for-the-badge" height="50" alt="react logo" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="50" alt="git logo" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=for-the-badge" height="50" alt="github logo" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Zig-5E7A99?logo=zig&logoColor=white&style=for-the-badge" height="50" alt="zig logo" />&nbsp;&nbsp;
