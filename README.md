@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="50" alt="tailwindcss logo" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=for-the-badge" height="50" alt="linux logo" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="50" alt="shell logo" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="50" alt="C++ logo" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Python-00599C?logo=python&logoColor=white&style=for-the-badge" height="50" alt="python logo" />&nbsp;&nbsp;
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white&style=for-the-badge" height="50" alt="lua logo" />&nbsp;&nbsp;
